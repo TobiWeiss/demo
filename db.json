@@ -1,10 +1,42 @@
 {
- "results": [
-   "Atos",
-   "Atos IT Solutions",
-   "Atos Information Services",
-   "Adidas",
-   "Agilis",
-   "Audi"
- ]
+ "result": {
+      "AverageRating": null,
+      "DosageForm": "HAS",
+      "FollowupPharmaCentralId": null,
+      "Gtin": 4031815327712,
+      "IsOtc": false,
+      "IsOtx": false,
+      "Label": "NOBA-FÄUSTLING GROSS",
+      "Manufacturer": {
+         "City": "Wetter",
+         "CompanyName": "NOBAMED Paul Danz AG",
+         "Country": "Deutschland",
+         "Email": "info@nobamed-ag.com",
+         "Fax": "+49 2335 7609-50",
+         "ForeignId": "20967",
+         "Homepage": "www.nobamed-ag.com",
+         "Phone": "+49 2335 7609-0",
+         "Street": "Höltkenstraße 1-5",
+         "Zip": "58300",
+         "Id": 2188
+      },
+      "ManufacturerId": 2188,
+      "PharmacyRetailPrice": 0,
+      "ProductId": 587320,
+      "Product": {
+         "ForeignId": "552082",
+         "Text": null,
+         "TextId": null,
+         "Id": 587320
+      },
+      "Pzn": 31874,
+      "Quantity": 2,
+      "Recommendations": null,
+      "RecommendedRetailPrice": 0,
+      "Requests": null,
+      "ScanRequests": null,
+      "StandardPackSize": "Nicht betroffen",
+      "Unit": "ST",
+      "Id": 1
+   },
 }
