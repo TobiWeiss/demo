@@ -38,5 +38,11 @@
       "StandardPackSize": "Nicht betroffen",
       "Unit": "ST",
       "Id": 1
-   }
+   },
+ "players": [
+  {"name": "Albert Camus"},
+  {"name": "Jean-Paul Sartre"},
+  {"name": "Marc Aurel"},
+  {"name": "Seneca"}
+ ]
 }
