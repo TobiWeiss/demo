@@ -40,9 +40,9 @@
       "Id": 1
    },
  "players": [
-  {"name": "Albert Camus"},
-  {"name": "Jean-Paul Sartre"},
-  {"name": "Marc Aurel"},
-  {"name": "Seneca"}
+  {"name": "Albert Camus", "id": "asdasd"},
+  {"name": "Jean-Paul Sartre", "id": "ysdfasdf"},
+  {"name": "Marc Aurel", "id": "asdasd"},
+  {"name": "Seneca", "id": "asdasd"}
  ]
 }
